@@ -46,5 +46,7 @@ The aim is to not only build a high-performing model but also to document it in 
    git clone https://github.com/yourusername/fraud-detection.git
    cd fraud-detection
 2.pip install -r requirements.txt
+
+
 3.jupyter notebook CreditCardFraudDetection.ipynb
 
